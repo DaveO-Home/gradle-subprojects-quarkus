@@ -1,0 +1,26 @@
+{
+  "name": "gradle-subprojects-quarkus",
+  "version": "0.0.1",
+  "description": "Debug quarkus gradle subprojects config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveO-Home/gradle-subprojects-quarkus.git"
+  },
+  "keywords": [
+    "java",
+    "gradle",
+    "quarkus"
+  ],
+  "author": "DaveO",
+  "license": "GNU LESSER GENERAL PUBLIC LICENSE",
+  "bugs": {
+    "url": "https://github.com/DaveO-Home/grpc-quarkus/issues"
+  },
+  "homepage": "https://github.com/DaveO-Home/gradle-subprojects-quarkus#readme",
+  "dependencies": {
+  }
+}

@@ -1,0 +1,21 @@
+plugins {
+    id 'java'
+}
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+dependencies {
+testImplementation 'junit:junit:4.13.1'
+testImplementation "io.rest-assured:rest-assured"
+}
+
+group 'sub.project.quarkus'
+version '0.0.1'
+
+java {
+    sourceCompatibility = JavaVersion.VERSION_21
+    targetCompatibility = JavaVersion.VERSION_21
+}
+
+
